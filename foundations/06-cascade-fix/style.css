@@ -8,16 +8,17 @@ body {
   font-weight: 800;
 }
 
+.para {
+  font-size: 22px;
+}
+/* Just swap positions of .para and .small-para */
 .small-para {
   font-size: 14px;
   font-weight: 800;
 }
 
-.para {
-  font-size: 22px;
-}
-
-.confirm {
+/* Apply rules to the specific element */
+#confirm-button {
   background: green;
   color: white;
   font-weight: bold;
@@ -29,7 +30,8 @@ body {
   font-size: 20px;
 }
 
-.child {
+/* Descendant combinator */
+.text .child {
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
