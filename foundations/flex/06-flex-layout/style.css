@@ -6,9 +6,12 @@ body {
   overflow: hidden;
   font-family: Roboto, sans-serif;
 <<<<<<< HEAD
+<<<<<<< HEAD
   /* SOLUTION */
   display: flex;
   flex-direction: column;
+=======
+>>>>>>> upstream/main
 =======
 >>>>>>> upstream/main
 }
@@ -30,6 +33,7 @@ input {
   padding: 8px 24px;
   width: 400px;
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 /* SOLUTION */
@@ -70,5 +74,7 @@ a {
   text-decoration: none;
   color: #666;
 }
+=======
+>>>>>>> upstream/main
 =======
 >>>>>>> upstream/main
