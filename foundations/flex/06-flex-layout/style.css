@@ -5,9 +5,12 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+<<<<<<< HEAD
   /* SOLUTION */
   display: flex;
   flex-direction: column;
+=======
+>>>>>>> upstream/main
 }
 
 img {
@@ -27,6 +30,7 @@ input {
   padding: 8px 24px;
   width: 400px;
 }
+<<<<<<< HEAD
 
 /* SOLUTION */
 .header,
@@ -66,3 +70,5 @@ a {
   text-decoration: none;
   color: #666;
 }
+=======
+>>>>>>> upstream/main
